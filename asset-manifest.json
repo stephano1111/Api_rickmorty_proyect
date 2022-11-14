@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Api_rickmorty_proyect/static/css/main.3ecf3825.css",
+    "main.js": "/Api_rickmorty_proyect/static/js/main.8ed0fad2.js",
+    "index.html": "/Api_rickmorty_proyect/index.html",
+    "main.3ecf3825.css.map": "/Api_rickmorty_proyect/static/css/main.3ecf3825.css.map",
+    "main.8ed0fad2.js.map": "/Api_rickmorty_proyect/static/js/main.8ed0fad2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3ecf3825.css",
+    "static/js/main.8ed0fad2.js"
+  ]
+}
